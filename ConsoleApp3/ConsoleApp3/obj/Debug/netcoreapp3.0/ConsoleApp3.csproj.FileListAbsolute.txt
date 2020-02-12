@@ -1,0 +1,4 @@
+C:\Users\smatu\source\repos\Programowanie-III\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.exe
+C:\Users\smatu\source\repos\Programowanie-III\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\smatu\source\repos\Programowanie-III\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\smatu\source\repos\Programowanie-III\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.AssemblyInfo.cs
